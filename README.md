@@ -2,7 +2,6 @@
 
 Website statis (HTML + CSS + JavaScript) berisi ucapan ulang tahun dengan animasi GSAP, musik, dan halaman login sederhana.
 
-Dimodifikasi dari template [aafrzl/ucapan-ultah](https://github.com/aafrzl/ucapan-ultah).
 
 ## Cara pakai
 
