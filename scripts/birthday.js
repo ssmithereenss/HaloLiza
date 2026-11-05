@@ -111,7 +111,7 @@ const animationTimeline = () => {
       { duration: 0.5, scale: 3.5, opacity: 0, x: 25, y: -25, rotationZ: -45 },
       "-=2"
     )
-    .from(".hat", { duration: 0.5, x: 0, y: 350, rotation: -180, opacity: 0 })
+    .from(".hat", { duration: 0.5, x: 100, y: 350, rotation: -180, opacity: 0 })
     .from(".wish-hbd span", {
       duration: 0.7,
       opacity: 0,
