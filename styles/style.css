@@ -203,7 +203,7 @@ button[type="submit"]:hover {
 /* topi diposisikan relatif terhadap foto, jadi aman di semua ukuran layar */
 .six .hat {
   position: absolute;
-  left: 40.5%;
+  left: 50%;
   bottom: 76%;
   width: 17%;
   rotate: 14deg;
