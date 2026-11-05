@@ -1,7 +1,7 @@
 // ===== Pengaturan login (ganti di sini kalau mau) =====
 const LOGIN = {
   username: "liza",
-  password: "liza",
+  password: "azil",
 };
 // ======================================================
 
